@@ -5,6 +5,15 @@
     box-sizing: border-box;
 
 }
+#about{
+    text-align: justify;
+}
+#services{
+    text-align: justify;
+}
+#protfolio{
+    text-align: justify;
+}
 html{
     scroll-behavior: smooth;
 }
