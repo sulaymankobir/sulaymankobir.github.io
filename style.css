@@ -300,6 +300,13 @@ width: 100%;
  font-size: 40px;
  font-weight: 600;
  color: #fff;
+ display:flex !important;
+ justify-content: center;
+}
+.contact-sub{
+ font-size: 40px;
+ font-weight: 600;
+ color: #fff;
 }
 .tab-titles{
     display: flex;
