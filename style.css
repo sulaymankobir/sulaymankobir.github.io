@@ -7,12 +7,15 @@
 }
 #about{
     text-align: justify;
+    margin: auto 3rem;
 }
 #services{
     text-align: justify;
+    margin: auto 3rem;
 }
 #protfolio{
     text-align: justify;
+    margin: auto 3rem;
 }
 html{
     scroll-behavior: smooth;
