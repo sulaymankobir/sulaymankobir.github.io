@@ -11,14 +11,14 @@
 }
 #services{
     text-align: justify;
-    margin: auto 1.5rem;
+    margin: auto 25px;
 }
 #protfolio{
     text-align: justify;
    
 }
 .container3{
-     margin: auto 1.5rem;
+     margin: auto 25px;
 }
 html{
     scroll-behavior: smooth;
