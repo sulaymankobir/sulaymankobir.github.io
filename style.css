@@ -15,7 +15,10 @@
 }
 #protfolio{
     text-align: justify;
-    margin: auto 1.5rem;
+   
+}
+.container3{
+     margin: auto 1.5rem;
 }
 html{
     scroll-behavior: smooth;
