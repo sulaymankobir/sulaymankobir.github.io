@@ -131,12 +131,3 @@ const navTogglerBtn = document.querySelector(".nav-toggler"),
       .catch(error => alert("something is wrong!"))
   })
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HWX8GMPPB8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HWX8GMPPB8');
-</script>
