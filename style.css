@@ -573,7 +573,7 @@ h3.my-profession{
     border:1px solid var(--bg-black-50);
     border-radius: 10px;
     padding: 30px 15px;
-    text-align: cneter;
+    text-align: center;
     transition:all 0.35 ease;
 
 }
@@ -668,18 +668,7 @@ h3.my-profession{
     width:100%;
     display:block;
 }
-.portfolio-img{
-    width: 100%;
-  max-width: 500px;
-  height: 100%;
-  max-height: 400px;
-  overflow: hidden;
-  position: 
-}
-.portfolio-img img{
-     width: 100%;
-  height: auto;
-}
+
 
 /* new contact */
 
