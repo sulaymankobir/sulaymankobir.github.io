@@ -44,7 +44,7 @@
 
  /* typing effect */
  var typed = new Typed(".typing",{
-    strings:[" ","Wordpress Developer","WP Theme Customizer","Plugin Developer"],
+    strings:[" ","Frontend Developer","MERN Developer","React Developer",],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
