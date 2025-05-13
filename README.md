@@ -1,1 +1,0 @@
-# sulaymankobir.github.io
